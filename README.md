@@ -1,7 +1,7 @@
 Grid Garden
 =======
 
-Grid Garden is a game for learning CSS grid layout. Check it out at [cssgridgarden.com](https://cssgridgarden.com).
+Grid Garden is a game for learning CSS grid layout. Check it out at [alidarcan.github.io/gridgarden/](alidarcan.github.io/gridgarden/).
 
 ![Grid Garden screenshot](./images/screenshot.png)
 
